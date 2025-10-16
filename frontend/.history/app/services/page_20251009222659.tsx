@@ -1,0 +1,82 @@
+import Link from 'next/link';
+import Image from 'next/image';
+
+export default function Services() {
+  return (
+    <>
+      <nav className="bg-blue-900 flex justify-center py-2">
+        <Link href="/" className="text-white mx-1.5 no-underline font-bold text-sm hover:underline">Home</Link>
+        <Link href="/services" className="text-white mx-1.5 no-underline font-bold text-sm hover:underline">Services</Link>
+        <Link href="/humanitarian-initiative" className="text-white mx-1.5 no-underline font-bold text-sm hover:underline">Humanitarian Initiative</Link>
+        <Link href="/about" className="text-white mx-1.5 no-underline font-bold text-sm hover:underline">About Us</Link>
+        <Link href="/contact" className="text-white mx-1.5 no-underline font-bold text-sm hover:underline">Contact</Link>
+      </nav>
+      <div className="bg-gray-100 py-5">
+        <h2 className="text-3xl text-blue-800 text-center">Our Services</h2>
+      </div>
+      <section className="flex flex-wrap justify-center gap-6 p-10 bg-gray-100">
+        <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
+          <Image src="/onlinst.jpeg" alt="Online Bookstore Icon" width={220} height={200} className="mx-auto mb-4" />
+          <h3 className="text-blue-800 mb-2">Online Bookstore</h3>
+          <p className="mb-4 text-gray-700">
+            <ul className="text-left">
+              <li className="mb-2"><strong>Wide Selection of Books:</strong> Discover an extensive collection of genres including educational materials, fiction, self-improvement guides, and more.</li>
+              <li className="mb-2"><strong>Seamless Shopping Experience:</strong> Enjoy secure payment options and prompt delivery services.</li>
+              <li className="mb-2"><strong>Community Impact:</strong> A portion of every book purchase helps fund our charitable initiatives.</li>
+            </ul>
+          </p>
+          <Link href="/bookstore" className="bg-blue-800 text-white px-4 py-2 rounded hover:bg-blue-900 no-underline">Learn More</Link>
+        </div>
+
+        <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
+          <Image src="/conv.jpg" alt="Covenant Daycare Garden Foundation (CDGF) Icon" width={220} height={200} className="mx-auto mb-4" />
+          <h3 className="text-blue-800 mb-2">Covenant Daycare Garden Foundation (CDGF)</h3>
+          <p className="mb-4 text-gray-700">
+            <ul className="text-left">
+              <li className="mb-2"><strong>Elderly Care:</strong> Provides shelter, basic needs, and community programs designed to support the well-being of the elderly.</li>
+              <li className="mb-2"><strong>Support for Widows:</strong> Offers financial and emotional assistance to widows in need, empowering them to lead stable lives.</li>
+              <li className="mb-2"><strong>Community Development:</strong> Runs programs that promote self-sufficiency and overall quality of life within the community.</li>
+            </ul>
+          </p>
+          <Link href="/humanitarian-initiative" className="bg-blue-800 text-white px-4 py-2 rounded hover:bg-blue-900 no-underline">Learn More</Link>
+        </div>
+
+        <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
+          <Image src="/const.jpeg" alt="Business Consultation Services Icon" width={220} height={200} className="mx-auto mb-4" />
+          <h3 className="text-blue-800 mb-2">Business Consultation Services</h3>
+          <p className="mb-4 text-gray-700">
+            <ul className="text-left">
+              <li className="mb-2"><strong>Global Expertise:</strong> Offers professional consulting services to businesses worldwide.</li>
+              <li className="mb-2"><strong>Entrepreneurial Guidance:</strong> Provides strategic advice on entrepreneurship, investment strategies, and business growth solutions.</li>
+              <li className="mb-2"><strong>Market Expansion:</strong> Assists both startups and established businesses in navigating global market challenges and opportunities.</li>
+            </ul>
+          </p>
+          <Link href="/business" className="bg-blue-800 text-white px-4 py-2 rounded hover:bg-blue-900 no-underline">Learn More</Link>
+        </div>
+
+        <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
+          <Image src="/eco.png" alt="Ecosystem Icon" width={220} height={200} className="mx-auto mb-4" />
+          <h3 className="text-blue-800 mb-2">Ecosystem</h3>
+          <p className="mb-4 text-gray-700">
+            These services combine to create a unique ecosystem where commerce, social responsibility, and professional guidance work together to make a positive impact on both individuals and the broader community.
+          </p>
+        </div>
+      </section>
+      <footer className="bg-blue-800 text-white text-center py-4 mt-8">
+        <p>© 2025 Covenant Books & Consulting. All Rights Reserved.</p>
+        <p className="mb-4">Empowering lives through literature, community support, and global business expertise.</p>
+        <nav className="mb-4">
+          <Link href="/about" className="text-white hover:underline mx-1">About Us</Link> |
+          <Link href="/services" className="text-white hover:underline mx-1">Services</Link> |
+          <Link href="/contact" className="text-white hover:underline mx-1">Contact Us</Link>
+        </nav>
+        <div className="mb-4">
+          <a href="#" className="text-blue-300 mx-1 no-underline">Facebook</a> •
+          <a href="#" className="text-blue-300 mx-1 no-underline">Twitter</a> •
+          <a href="#" className="text-blue-300 mx-1 no-underline">LinkedIn</a>
+        </div>
+        <p>Covenant Daycare Garden Foundation is a proud initiative dedicated to supporting elders and widows in need.</p>
+      </footer>
+    </>
+  );
+}
