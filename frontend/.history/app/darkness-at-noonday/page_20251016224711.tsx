@@ -29,10 +29,9 @@ export default function DarknessAtNoonday() {
           To Nigerian Mapper, who is disposed to engage with continuous research on the geography, statistics, geometry, algebra, operations and probability of a matter; and ready to analyse and glean insights into its analytics, using specialized tools to create precise, accurate maps of personality pictures embedded in the 26 Alphabets of English language Education Curriculum and presented as:
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          "(A)mbitiuos; (B)ellicose; (C)hauvinistic; (D)acoit; (E)clectic; (F)abricator; (G)allant; (H)ardworking; (I)ngenius; (J)ackass; (K)affir; (L)aborious; (M)agnanimous; (N)ationalistic; (O)mbusman; (P)acifist; (Q)uack; (R)econciler; (S)agacious; (T)echnocrat; (U)ncouth; (V)acillator; (W)angler; (X)enophobic; (Y)uppie; (Z)ombie.. The specific alphabets captured by the individual endowed with mindsets for heart knowledge and skilled hand; and dedicated to the study of Science, Mathematics, Algebra, Geometry, Physics, Chemistry, Biology and Botany, as field of study will be disposed by character to act (A)mbitiuos; (B)ellicose; (C)alvinistic; (E)clectic; (G)allant; (H)ardworking; (I)ngenius; (L)aborious; (M)agnanimous; (N)ationalistic; (O)mbusman; (P)acifist; (R)econciler; (S)agacious (T)echnocrat; and (Y)uppie."
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          The alphabets available thereafter, to be picked by seekers of head-knowledge with zeal for public offices and mindset targeted to access positions for appetite massaging. The majority of the people in this category are those seen floating as politicians in the national spaces and act the image of the: "(D)acoit; (F)abricator; (J)ackass; (K)affir; (Q)uack; (U)ncouth; (V)acillator; (W)angler; (X)enophobic; and (Z)ombie" individuals with no physical or material value to add but only emotional arousal, disorder and disturbance.
+          The alphabets available thereafter, to be picked by seekers of head-knowledge with zeal for public offices and mindset targeted to access positions for appetite massaging. The majority of the people in this category are those seen floating as politicians in the national spaces and act the image of the: (D)acoit; (F)abricator; (J)ackass; (K)affir; (Q)uack; (U)ncouth; (V)acillator; (W)angler; (X)enophobic; and (Z)ombie individuals with no physical or material value to add but only emotional arousal, disorder and disturbance.
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           <strong>Section Two:</strong> Darkness At Noonday To questioning minds, who understand that the issues raised are not judgmental but to trigger national restoration as end product. To Nigerian Wailer, who is disposed as citizen to support the existing structure by political affiliation and tribal or religious identity; and ready to lament non-action and utter cry of sorrow, pain or rage and feeling of grief when the status quo is shaken. Section Three: Dare To Change The Script To Nigerian Citizens with penchant as analyst, whose inclination is to study or examine composition, patterns,
@@ -43,7 +42,7 @@ export default function DarknessAtNoonday() {
         </p>
       </div>
       <footer className="bg-blue-800 text-white text-center py-4 mt-8">
-        <p>© 2025 Covenant Books &amp; Consulting. All Rights Reserved.</p>
+        <p>© 2025 Covenant Books & Consulting. All Rights Reserved.</p>
         <p className="mb-4">Empowering lives through literature, community support, and global business expertise.</p>
         <nav className="mb-4">
           <Link href="/about" className="text-white hover:underline mx-1">About Us</Link> |

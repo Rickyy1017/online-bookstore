@@ -67,7 +67,7 @@ export default function HumanitarianInitiative() {
             <div className="flex-1 min-w-75 bg-gray-200 p-4 rounded">
               <h3 className="mb-2.5 text-blue-600">MISSION</h3>
               <p>
-              Recreation Programmes designed to enable Elders and Widows to maintain/restore their optimum physical, mental, and emotional health; a facility for healthcare, networking and fruitful engagement in social activities; opportunities for social and mental stimulation in a safe and comfortable environment; access to library, social and legal services as may be necessary towards the advancement of their individual rights, protection and care.
+                Recreation Programmes designed to enable Elders and Widows to maintain/restore their optimum physical, mental, and emotional health; a facility for healthcare, networking and fruitful engagement in social activities; opportunities for social and mental stimulation in a safe and comfortable environment; access to library, social and legal services as may be necessary towards the advancement of their individual rights, protection and care.
               </p>
             </div>
             <div className="flex-1 min-w-75 bg-gray-200 p-4 rounded">

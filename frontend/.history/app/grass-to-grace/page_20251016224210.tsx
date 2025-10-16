@@ -23,7 +23,7 @@ export default function GrassToGrace() {
           />
         </header>
         <p className="text-gray-700 leading-relaxed mb-4">
-          I like it when a flower or a little tuft of grass grows through a crack in the concrete" - John Lubbock
+          I like it when a flower or a little tuft of grass grows through a crack in the concrete"- John Lubbock
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
           The Pawpaw Plant reminds us to share the pawpaw fruits with those closest to us in our environment where we can be ourselves ; and have time to enjoy the sweetness of life as we celebrate our natural gifts with our friends, family and loved ones.
@@ -36,7 +36,7 @@ export default function GrassToGrace() {
         </p>
       </div>
       <footer className="bg-blue-800 text-white text-center py-4 mt-8">
-        <p>© 2025 Covenant Books &amp; Consulting. All Rights Reserved.</p>
+        <p>© 2025 Covenant Books & Consulting. All Rights Reserved.</p>
         <p className="mb-4">Empowering lives through literature, community support, and global business expertise.</p>
         <nav className="mb-4">
           <Link href="/about" className="text-white hover:underline mx-1">About Us</Link> |

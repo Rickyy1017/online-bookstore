@@ -64,7 +64,7 @@ export default function About() {
       <footer className="bg-gray-800 text-white py-12 mt-16">
         <div className="container mx-auto px-4">
           <div className="text-center mb-8">
-            <p className="text-lg font-semibold">© 2025 Covenant Books &amp; Consulting. All Rights Reserved.</p>
+            <p className="text-lg font-semibold">© 2025 Covenant Books & Consulting. All Rights Reserved.</p>
             <p className="text-gray-300 mt-2">Empowering lives through literature, community support, and global business expertise.</p>
           </div>
           <nav className="flex justify-center mb-8 space-x-6">

@@ -14,7 +14,7 @@ export default function Bookstore() {
         <h1 className="text-4xl text-blue-800 text-center mb-5">Our Bookstore</h1>
         <section className="mb-10">
           <p className="mb-4">
-            At <strong>Covenant Books &amp; Consulting</strong>, we harness the transformative power of literature to educate, inspire, and enrich lives. Our online bookstore offers an extensive, carefully curated selection of titles that cater to readers of all ages and interests.
+            At <strong>Covenant Books & Consulting</strong>, we harness the transformative power of literature to educate, inspire, and enrich lives. Our online bookstore offers an extensive, carefully curated selection of titles that cater to readers of all ages and interests.
           </p>
           <h2 className="text-3xl text-blue-800 mb-4 border-b-2 border-blue-800 pb-1">Diverse Collection of Books</h2>
           <p className="mb-4">
@@ -48,7 +48,7 @@ export default function Bookstore() {
         <h1 className="text-4xl text-blue-800 text-center mb-5">Expanding Opportunities for Writers</h1>
         <section className="mb-10">
           <p className="mb-4">
-            At <strong>Covenant Books &amp; Consulting</strong>, we believe in empowering the literary community. We not only offer a platform for readers but also invite authors and publishers to join us in making great literature accessible worldwide.
+            At <strong>Covenant Books & Consulting</strong>, we believe in empowering the literary community. We not only offer a platform for readers but also invite authors and publishers to join us in making great literature accessible worldwide.
           </p>
           <h2 className="text-3xl text-blue-800 mb-4 border-b-2 border-blue-800 pb-1">Why Partner With Us?</h2>
           <ul className="mb-5 ml-5">
@@ -73,7 +73,7 @@ export default function Bookstore() {
         </div>
       </div>
       <footer className="bg-blue-800 text-white text-center py-4 mt-8">
-        <p>© 2025 Covenant Books &amp; Consulting. All Rights Reserved.</p>
+        <p>© 2025 Covenant Books & Consulting. All Rights Reserved.</p>
         <p className="mb-4">Empowering lives through literature, community support, and global business expertise.</p>
         <nav className="mb-4">
           <Link href="/about" className="text-white hover:underline mx-1">About Us</Link> |
