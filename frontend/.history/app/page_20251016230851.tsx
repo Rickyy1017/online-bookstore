@@ -21,7 +21,6 @@ export default function Page() {
   const [emailError, setEmailError] = useState('');
   const [phoneError, setPhoneError] = useState('');
 
-
   const addToCart = (title: string, price: number, type: string) => {
     setCart(prev => [...prev, { title, price, type }]);
     toast.success(`${title} (${type}) added to cart!`);

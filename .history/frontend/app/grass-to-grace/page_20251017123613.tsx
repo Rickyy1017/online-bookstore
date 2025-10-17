@@ -13,7 +13,7 @@ export default function GrassToGrace() {
       </nav>
       <div className="max-w-4xl mx-auto bg-white p-7.5 shadow-lg mt-5">
         <header className="text-center mb-5">
-          <h1 className="text-4xl text-gray-800 mb-2.5">GRASS TO GRACE FAMILY FOOTPRINTS ON LIFE&apos;S PATHWAY</h1>
+          <h1 className="text-4xl text-gray-800 mb-2.5">GRASS TO GRACE FAMILY FOOTPRINTS ON LIFE'S PATHWAY</h1>
           <Image
             src="/grasee (1).jpg"
             alt=""

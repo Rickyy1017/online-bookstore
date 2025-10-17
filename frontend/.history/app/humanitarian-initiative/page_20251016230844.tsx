@@ -34,7 +34,7 @@ export default function HumanitarianInitiative() {
           <h2 className="text-3xl text-gray-800 mb-2.5 border-b-2 border-gray-800 pb-1">COVENANT DAYCARE GARDEN FOUNDATION INVITATION</h2>
           <article className="mb-5">
             <p className="mb-4 text-justify">
-              I am sending this personal invitation to you, to formally inform you of my Family plan to establish a Covenant Daycare Garden Initiative for care of the elderly and the widows. We purpose to host the Garden at Egbu -Owerri, Imo State in Memory of our Parents - Pa Joseph Ugochukwu and Mama Bernice Nwobiara Okoro for reason that in life and by GOD&apos;s Grace, they were the bedrocks of four children who became notable citizens as &quot;Stars Not Scars.&quot;
+              I am sending this personal invitation to you, to formally inform you of my Family plan to establish a Covenant Daycare Garden Initiative for care of the elderly and the widows. We purpose to host the Garden at Egbu -Owerri, Imo State in Memory of our Parents - Pa Joseph Ugochukwu and Mama Bernice Nwobiara Okoro for reason that in life and by GOD&apos;s Grace, they were the bedrocks of four children who became notable citizens as "Stars Not Scars."
             </p>
             <p className="mb-4 text-justify">
               The primary objective is to cater for the healthcare and welfare needs of Covenant &apos;Elders and Widows Indeed&apos; in Owerri and environs; and in the manner that could restore their confidence and dignity as respected individuals and a welcoming community. I am confident that as a man of understanding and a devout and altruistic person, you may feel persuaded to respond positively to this request for support towards establishing the Foundation. May I formally invite you to please consider and accept to be our Soul-Partner with a sense of ownership in this initiative.
@@ -43,7 +43,7 @@ export default function HumanitarianInitiative() {
               I enclose a one-page outline of the Covenant Daycare Garden Initiative for your orientation. The page will present Statement of Vision &amp; Mission; Garden Management Funding, Administration and Accountability Framework; Bank Lodgement Account. I feel persuaded that by the Grace of GOD, you shall stand to reap commensurate returns from the prayers of the beneficiaries of unmerited Love you have sown by your &apos;across-the-Niger&apos; contribution and generous funding of this initiative; towards fixing the problems and pains of &apos;Covenant Elders and Widows Indeed&apos; in Egbu - Owerri and environs.
             </p>
             <p className="mb-4 text-justify">
-              I hope you may find the time to join my family on a date, time and venue which I shall, respectfully, communicate to you for the planned presentation of my Memoir captioned &quot;Dare to Live My Passion (The Authentic Memoir of a Passionate Railwayman)&quot; to Soul-Mates, Well-Wishers and Discerning Public for donations towards the Project&apos;s kick-off and sustainability.
+              I hope you may find the time to join my family on a date, time and venue which I shall, respectfully, communicate to you for the planned presentation of my Memoir captioned "Dare to Live My Passion (The Authentic Memoir of a Passionate Railwayman)" to Soul-Mates, Well-Wishers and Discerning Public for donations towards the Project&apos;s kick-off and sustainability.
             </p>
             <p className="mb-4 text-justify">
               May I contact your office within the next fortnight to follow up on this invitation? Thanks for your attention and commitment to philanthropy.
@@ -56,12 +56,12 @@ export default function HumanitarianInitiative() {
         </section>
 
         <section className="mb-7">
-          <h2 className="text-3xl text-gray-800 mb-2.5 border-b-2 border-gray-800 pb-1">For &quot;ELDERS &amp; WIDOWS INDEED&quot; Statement of Vision &amp; Mission</h2>
+          <h2 className="text-3xl text-gray-800 mb-2.5 border-b-2 border-gray-800 pb-1">For "ELDERS &amp; WIDOWS INDEED" Statement of Vision &amp; Mission</h2>
           <div className="flex flex-wrap gap-5">
             <div className="flex-1 min-w-75 bg-gray-200 p-4 rounded">
               <h3 className="mb-2.5 text-blue-600">VISION</h3>
               <p>
-              Inspired Elders &amp; Confident &quot;Widows Indeed&quot; associating and networking with a cheerful attitude and a noble, positive outlook on life even during difficult times.
+              Inspired Elders &amp; Confident "Widows Indeed" associating and networking with a cheerful attitude and a noble, positive outlook on life even during difficult times.
               </p>
             </div>
             <div className="flex-1 min-w-75 bg-gray-200 p-4 rounded">

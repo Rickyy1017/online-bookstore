@@ -20,7 +20,7 @@ export default function Page() {
   const [phone, setPhone] = useState('');
   const [emailError, setEmailError] = useState('');
   const [phoneError, setPhoneError] = useState('');
-
+  const [isBannerVisible] = useState(true);
 
   const addToCart = (title: string, price: number, type: string) => {
     setCart(prev => [...prev, { title, price, type }]);

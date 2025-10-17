@@ -26,7 +26,7 @@ export default function DareToSmile() {
           Dare to Smile in the Darkness of Life is an unusual book and character sketch of the difference maker. The message is:
         </p>
         <p className="text-gray-700 leading-relaxed mb-4">
-          &quot;When you reach an obstacle, turn it into an opportunity. You have a choice. You can overcome and be a winner, or you can allow it to overcome you and be a loser. The choice is yours and yours alone. Refuse to throw in the towel. Go that extra mile that failures refuse to travel. It is far better to be exhausted from success than to be rested from failure.&quot; ~ Mary Kay Ash
+          "When you reach an obstacle, turn it into an opportunity. You have a choice. You can overcome and be a winner, or you can allow it to overcome you and be a loser. The choice is yours and yours alone. Refuse to throw in the towel. Go that extra mile that failures refuse to travel. It is far better to be exhausted from success than to be rested from failure." ~ Mary Kay Ash
         </p>
         <p className="text-gray-700 leading-relaxed">
           The cravings of the difference maker are that leadership of the State Executive, including the National & State Assemblies, the Judiciary and of the people must have common understanding that together they enjoy collective membership of the Board of Directors of the landscape as public enterprise.

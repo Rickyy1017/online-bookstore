@@ -21,6 +21,7 @@ export class SubmissionService {
 
   async handleSubmission(email: string, phone: string): Promise<{ success: boolean; message: string }> {
     try {
+      // Send email to client
       await this.sendEmail(email, phone);
 
       return { success: true, message: 'Submission processed successfully' };
