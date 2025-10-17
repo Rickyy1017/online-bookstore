@@ -36,6 +36,24 @@ export default function Contact() {
 
   return (
     <>
+      <header className="bg-white shadow-md border-b">
+        <div className="container mx-auto px-4 py-4 flex justify-between items-center">
+          <div className="flex items-center">
+            <Image src="/images/logo.png" alt="Logo" width={80} height={100} className="mr-4" />
+            <div>
+              <h1 className="text-2xl font-bold text-gray-900">UNUSUAL USUAL MAN</h1>
+              <p className="text-sm text-gray-600">Online Bookstore</p>
+            </div>
+          </div>
+          <nav className="hidden md:flex space-x-6">
+            <Link href="/" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Home</Link>
+            <Link href="/services" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Services</Link>
+            <Link href="/humanitarian-initiative" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Humanitarian Initiative</Link>
+            <Link href="/about" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">About Us</Link>
+            <Link href="/contact" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Contact</Link>
+          </nav>
+        </div>
+      </header>
       <div className="max-w-4xl mx-auto p-5 bg-white shadow-lg rounded-lg mt-5">
         <h1 className="text-blue-800">Contact Us</h1>
         <p className="mb-5">

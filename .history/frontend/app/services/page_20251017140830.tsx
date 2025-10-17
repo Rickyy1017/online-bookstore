@@ -59,7 +59,7 @@ export default function Services() {
         </div>
 
         <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
-          <Image src="/logo.png" alt="Company Logo" width={220} height={200} className="mx-auto mb-4" />
+          <Image src="/eco.png" alt="Ecosystem Icon" width={220} height={200} className="mx-auto mb-4" />
           <h3 className="text-blue-800 mb-2">Ecosystem</h3>
           <p className="mb-4 text-gray-700">
             These services combine to create a unique ecosystem where commerce, social responsibility, and professional guidance work together to make a positive impact on both individuals and the broader community.

@@ -16,7 +16,6 @@ export default function Page() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [hasSubmitted, setHasSubmitted] = useState(false);
   const [showModal, setShowModal] = useState(false);
-  
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
   const [emailError, setEmailError] = useState('');
@@ -137,6 +136,24 @@ export default function Page() {
 
   return (
     <>
+      <header className="bg-white shadow-md border-b">
+        <div className="container mx-auto px-4 py-4 flex justify-between items-center">
+          <div className="flex items-center">
+            <Image src="/images/logo.png" alt="Logo" width={80} height={100} className="mr-4" />
+            <div>
+              <h1 className="text-2xl font-bold text-gray-900">UNUSUAL USUAL MAN</h1>
+              <p className="text-sm text-gray-600">Online Bookstore</p>
+            </div>
+          </div>
+          <nav className="hidden md:flex space-x-6">
+            <Link href="/" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Home</Link>
+            <Link href="/services" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Services</Link>
+            <Link href="/humanitarian-initiative" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Humanitarian Initiative</Link>
+            <Link href="/about" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">About Us</Link>
+            <Link href="/contact" className="text-gray-700 font-medium hover:text-indigo-600 transition-colors">Contact</Link>
+          </nav>
+        </div>
+      </header>
 
       <section className="bg-gradient-to-r from-indigo-50 to-purple-50 py-12 md:py-16">
         <div className="container mx-auto text-center px-4">

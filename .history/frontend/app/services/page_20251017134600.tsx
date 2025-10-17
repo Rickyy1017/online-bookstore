@@ -18,13 +18,6 @@ export default function Services() {
               <li className="mb-2"><strong>Community Impact:</strong> A portion of every book purchase helps fund our charitable initiatives.</li>
             </ul>
           </p>
-          <div className="flex flex-wrap justify-center gap-4 mb-4">
-            <Image src="/dare.jpg" alt="Dare to Smile Book Cover" width={100} height={150} className="rounded shadow" />
-            <Image src="/dark.png" alt="Darkness at Noonday Book Cover" width={100} height={150} className="rounded shadow" />
-            <Image src="/grasee (1).jpg" alt="Grass to Grace Book Cover" width={100} height={150} className="rounded shadow" />
-            <Image src="/nige.jpg" alt="Nigeria Enterprise Book Cover" width={100} height={150} className="rounded shadow" />
-            <Image src="/rep.jpg" alt="Reposition of Christ Book Cover" width={100} height={150} className="rounded shadow" />
-          </div>
           <Link href="/bookstore" className="bg-blue-800 text-white px-4 py-2 rounded hover:bg-blue-900 no-underline">Learn More</Link>
         </div>
 
@@ -38,10 +31,6 @@ export default function Services() {
               <li className="mb-2"><strong>Community Development:</strong> Runs programs that promote self-sufficiency and overall quality of life within the community.</li>
             </ul>
           </p>
-          <div className="flex flex-wrap justify-center gap-4 mb-4">
-            <Image src="/daycare1.png" alt="Daycare Facility 1" width={100} height={100} className="rounded shadow" />
-            <Image src="/daycare2.jpg" alt="Daycare Facility 2" width={100} height={100} className="rounded shadow" />
-          </div>
           <Link href="/humanitarian-initiative" className="bg-blue-800 text-white px-4 py-2 rounded hover:bg-blue-900 no-underline">Learn More</Link>
         </div>
 
@@ -59,7 +48,7 @@ export default function Services() {
         </div>
 
         <div className="text-center w-75 border border-gray-300 rounded-lg p-6 shadow-lg bg-white">
-          <Image src="/logo.png" alt="Company Logo" width={220} height={200} className="mx-auto mb-4" />
+          <Image src="/eco.png" alt="Ecosystem Icon" width={220} height={200} className="mx-auto mb-4" />
           <h3 className="text-blue-800 mb-2">Ecosystem</h3>
           <p className="mb-4 text-gray-700">
             These services combine to create a unique ecosystem where commerce, social responsibility, and professional guidance work together to make a positive impact on both individuals and the broader community.
